@@ -1,9 +1,11 @@
-package com.spring_app;
+package com.spring_app.model;
 
 import jakarta.persistence.*;
+import lombok.Builder;
 
 import java.util.Objects;
 @Entity
+@Builder
 public class Customer {
     @Id
     @SequenceGenerator(
