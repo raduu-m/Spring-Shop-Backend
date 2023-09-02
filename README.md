@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Endpoints](#endpoints)
-- [Database Setup](#database-setup)s
+- [Database Setup](#database-setup)
 
 ## Introduction
 
