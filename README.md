@@ -26,8 +26,11 @@ Before you begin, ensure you have met the following requirements:
 The application exposes various RESTful endpoints for handling different functionalities. Here are some example endpoints:
 
 GET /api/customers: Retrieve a list of employees.
+
 GET /api/customers/{id}: Retrieve a specific employee by ID.
+
 POST /api/customers: Create a new employee.
+
 DELETE /api/customers/{id}: Delete an employee by ID.
 
 ## Database Setup
